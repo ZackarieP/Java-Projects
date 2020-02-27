@@ -1,6 +1,4 @@
-/**
- * firstRecurrChar
- */
+
 public class firstRecurrChar {
 
     public static void main(String[] args) {
